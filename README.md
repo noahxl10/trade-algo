@@ -1,5 +1,5 @@
 
-## Welcome to the Alpaca Tradinig Algorithm, a Python package for easy algorithmic trading on Alpaca
+## Welcome to the Alpaca Trading Algorithm, a Python package for easy algorithmic trading on Alpaca
 ### This package allows one to check account status, make long orders, make short orders, run a custom momentum-based algorithm, and automatically calculate the best tickers to trade in the S&P500 based off of probability of returns and betas. 
 ### **To run this package, you will need an IEX Finance key, as well as an Alpaca API key**
 
